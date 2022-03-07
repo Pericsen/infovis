@@ -9,3 +9,5 @@ crear en el repo zoo.txt, buscar palabras y frases claves del paper 'A Tour Thro
 # slack
 
 mandar un DM
+
+tableau
