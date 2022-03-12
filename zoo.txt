@@ -1,1 +1,22 @@
-
+1200 exabytes; 
+visual encodings;
+Time-Series Data;
+stacked graph (stream graph);
+Horizon Graph;
+EDA, gaining insight into how data is distributed to inform data transformation and modeling decisions.; 
+Q-Q Plots (quantile - quantile);
+multivariate data; 
+brushing-and-linking - a selection of points on one graph highlits the same points on all the other graphs; 
+Parallel Coordinates (|| - coord);
+Choropleth Maps;
+Graduated Symbo Maps - avoids confounding geographic area with data values and allows for more dimensions to be visualized; 
+Special visualization techniques exist to leverage hierarchical structure, allowing rapid multiscale inferences: micro-observations of individual elements and macro-observations of large groups;
+Node-ling Diagrams;
+Reingold-Tilford algorithm;
+dendrogram (cluster) algorithm;
+Adjacency Diagrams - a space-filling variant of the node-link diagram;
+Enclosure Diagram - also space filling, using containment rather than adjacency to represent hierarchy.
+Voronoi, jigsaw treemaps;
+Relationship, a bridge between disparate groups;
+force directed layou is a good starting point for understanding the structure of a general undirected graph;
+seriation;
